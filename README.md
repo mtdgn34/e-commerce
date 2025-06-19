@@ -17,3 +17,9 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş modern ve işlevs
 - **CSS3** – Stil, responsive tasarım ve animasyonlar
 - **JavaScript (Vanilla)** – Ürün etkileşimi, sepet yönetimi, localStorage
 - (İsteğe bağlı) FontAwesome ikonları, Google Fonts, görsel içerikler
+
+- 📷 Ekran Görüntüsü
+  
+![e-commerce](https://github.com/user-attachments/assets/c5771720-9e20-4f10-a7ef-023f1ef441d2)
+
+https://mtdgn34.github.io/e-commerce/
