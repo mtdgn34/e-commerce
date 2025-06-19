@@ -8,7 +8,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş modern ve işlevs
 - 🛒 Sepete ürün ekleme ve sepeti görüntüleme
 - 🧹 Sepetten ürün çıkarma / sepeti temizleme
 - 🎠 **Carousel (slider)** ile öne çıkan ürünleri görsel olarak kaydırma
-- 💾 LocalStorage ile sepet verisini tarayıcıda saklama
+- 💾 LocalStorage ile sepet verisini tarayıcıda saklama (isteğe bağlı)
 - 📱 Mobil uyumlu ve responsive tasarım
 
 ## 🛠️ Kullanılan Teknolojiler
